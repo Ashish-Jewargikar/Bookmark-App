@@ -58,11 +58,11 @@ li {
 @media screen and (max-width:768px) {
     .center-container{
         margin-top: 40px;
-        width: 300px;
+        width: 250px;
         height: 400px;
     }
     .inp{
-        width:230px;
+        width:200px;
         height: 30px;
     }
     .btns{
